@@ -5,7 +5,7 @@ layout: default
 
 # AtlasBible Privacy Policy
 
-**Effective November 8, 2026**
+**Effective November 9, 2026**
 
 Namib publishes AtlasBible: Bible Maps & Study for Android (`com.namib.atlasbible`). This policy explains how the app handles information and what happens when you visit this website or contact us.
 
@@ -13,7 +13,15 @@ Namib publishes AtlasBible: Bible Maps & Study for Android (`com.namib.atlasbibl
 
 AtlasBible works offline. The Bible text, maps, and reference material ship with the app. Your device processes Bible searches and stores your reading position, display preferences, bookmarks, verse highlights, and notes so you can pick up where you left off.
 
-AtlasBible has no account system, ads, analytics, or cloud sync operated by Namib. The app does not send your reading activity or study content to Namib or share it with advertisers. The map shows biblical places and does not use your device location.
+AtlasBible has no account system or cloud sync operated by Namib. Namib does not receive your Bible searches, bookmarks, highlights, or notes. The map shows biblical places and does not use your device's precise location.
+
+## Advertising and privacy choices
+
+Versions with advertising use Google AdMob to display a banner in the **Browse all journeys** catalog when online and **All entries** is selected. AtlasBible does not include your Bible search terms, reading position, or saved study in ad requests.
+
+Google's Mobile Ads SDK may collect and share your IP address, which can indicate approximate location, app and ad interactions, diagnostic information, and device or account identifiers, including your Android advertising ID if available. Google uses this information for advertising, analytics, and fraud prevention and encrypts it in transit. Google's privacy policy describes how Google handles and retains this information. [Google's privacy policy](https://policies.google.com/privacy)
+
+Google's User Messaging Platform checks whether privacy choices are required. When available, you can review them under **Menu → Reading settings → Ad privacy choices**. You can also manage your advertising ID in Android settings. Reading and study features work offline.
 
 ## Backups and files you choose
 
