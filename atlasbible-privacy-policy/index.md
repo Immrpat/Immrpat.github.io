@@ -17,7 +17,7 @@ AtlasBible has no account system or cloud sync operated by Namib. Namib does not
 
 ## Advertising and privacy choices
 
-Versions with advertising use Google AdMob to display a banner in the **Browse all journeys** catalog when online and **All entries** is selected. AtlasBible does not include your Bible search terms, reading position, or saved study in ad requests.
+Versions with advertising may use Google AdMob to display a banner on **Person details**, **Place details**, and **Browse all journeys** when online. In the journey catalog, banners appear only when **All entries** is selected and no search filter is active. AtlasBible does not include your Bible search terms, reading position, or saved study in ad requests.
 
 Google's Mobile Ads SDK may collect and share your IP address, which can indicate approximate location, app and ad interactions, diagnostic information, and device or account identifiers, including your Android advertising ID if available. Google uses this information for advertising, analytics, and fraud prevention and encrypts it in transit. Google's privacy policy describes how Google handles and retains this information. [Google's privacy policy](https://policies.google.com/privacy)
 
